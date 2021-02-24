@@ -1,0 +1,16 @@
+D:\GI262\GI262\bin\Debug\net5.0\GI262.exe
+D:\GI262\GI262\bin\Debug\net5.0\GI262.deps.json
+D:\GI262\GI262\bin\Debug\net5.0\GI262.runtimeconfig.json
+D:\GI262\GI262\bin\Debug\net5.0\GI262.runtimeconfig.dev.json
+D:\GI262\GI262\bin\Debug\net5.0\GI262.dll
+D:\GI262\GI262\bin\Debug\net5.0\ref\GI262.dll
+D:\GI262\GI262\bin\Debug\net5.0\GI262.pdb
+D:\GI262\GI262\obj\Debug\net5.0\GI262.csprojAssemblyReference.cache
+D:\GI262\GI262\obj\Debug\net5.0\GI262.GeneratedMSBuildEditorConfig.editorconfig
+D:\GI262\GI262\obj\Debug\net5.0\GI262.AssemblyInfoInputs.cache
+D:\GI262\GI262\obj\Debug\net5.0\GI262.AssemblyInfo.cs
+D:\GI262\GI262\obj\Debug\net5.0\GI262.csproj.CoreCompileInputs.cache
+D:\GI262\GI262\obj\Debug\net5.0\GI262.dll
+D:\GI262\GI262\obj\Debug\net5.0\ref\GI262.dll
+D:\GI262\GI262\obj\Debug\net5.0\GI262.pdb
+D:\GI262\GI262\obj\Debug\net5.0\GI262.genruntimeconfig.cache
