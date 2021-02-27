@@ -29,7 +29,6 @@ namespace Lab2_1
                 }else{
                     Console.Write(data + " ,");
                 }
-
             }
         }
     }
