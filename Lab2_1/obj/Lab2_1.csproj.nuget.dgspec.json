@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GI262\\Lab2_1\\Lab2_1.csproj": {}
+    "d:\\GI262\\Lab2_1\\Lab2_1.csproj": {}
   },
   "projects": {
-    "D:\\GI262\\Lab2_1\\Lab2_1.csproj": {
+    "d:\\GI262\\Lab2_1\\Lab2_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GI262\\Lab2_1\\Lab2_1.csproj",
+        "projectUniqueName": "d:\\GI262\\Lab2_1\\Lab2_1.csproj",
         "projectName": "Lab2_1",
-        "projectPath": "D:\\GI262\\Lab2_1\\Lab2_1.csproj",
+        "projectPath": "d:\\GI262\\Lab2_1\\Lab2_1.csproj",
         "packagesPath": "C:\\Users\\ponla\\.nuget\\packages\\",
-        "outputPath": "D:\\GI262\\Lab2_1\\obj\\",
+        "outputPath": "d:\\GI262\\Lab2_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

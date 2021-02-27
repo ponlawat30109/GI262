@@ -1,0 +1,16 @@
+D:\GI262\Lab2_4\bin\Debug\net5.0\Lab2_4.exe
+D:\GI262\Lab2_4\bin\Debug\net5.0\Lab2_4.deps.json
+D:\GI262\Lab2_4\bin\Debug\net5.0\Lab2_4.runtimeconfig.json
+D:\GI262\Lab2_4\bin\Debug\net5.0\Lab2_4.runtimeconfig.dev.json
+D:\GI262\Lab2_4\bin\Debug\net5.0\Lab2_4.dll
+D:\GI262\Lab2_4\bin\Debug\net5.0\ref\Lab2_4.dll
+D:\GI262\Lab2_4\bin\Debug\net5.0\Lab2_4.pdb
+D:\GI262\Lab2_4\obj\Debug\net5.0\Lab2_4.csprojAssemblyReference.cache
+D:\GI262\Lab2_4\obj\Debug\net5.0\Lab2_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\GI262\Lab2_4\obj\Debug\net5.0\Lab2_4.AssemblyInfoInputs.cache
+D:\GI262\Lab2_4\obj\Debug\net5.0\Lab2_4.AssemblyInfo.cs
+D:\GI262\Lab2_4\obj\Debug\net5.0\Lab2_4.csproj.CoreCompileInputs.cache
+D:\GI262\Lab2_4\obj\Debug\net5.0\Lab2_4.dll
+D:\GI262\Lab2_4\obj\Debug\net5.0\ref\Lab2_4.dll
+D:\GI262\Lab2_4\obj\Debug\net5.0\Lab2_4.pdb
+D:\GI262\Lab2_4\obj\Debug\net5.0\Lab2_4.genruntimeconfig.cache
